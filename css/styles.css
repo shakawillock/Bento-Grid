@@ -1,3 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "DM Sans", sans-serif;
+  font-size: 1.125rem;
+}
+
+img {
+  max-width: 100%;
+  width: 300px;
+}
+
+.bg-dark-yellow {
+  background-color: hsl(39, 100%, 71%);
+}
+
+.bg-dark-purple {
+  background-color: hsl(256, 67%, 59%);
+}
+
+.text-color-white {
+  color: hsl(0, 0%, 100%);
+}
+
+.text-highlight-yellow {
+  color: hsl(39, 100%, 71%);
+}
+
+.text-highlight-purple {
+  color: hsl(256, 67%, 59%);
+}
+
+.create-post {
+  background-color: hsl(31, 66%, 93%);
+}
+
+.schedule-social-media {
+  background-color: hsl(254, 88%, 90%);
+}
+
 .attribution { 
   font-size: 11px; 
   text-align: center; 
